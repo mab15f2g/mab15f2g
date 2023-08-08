@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### 📫 Reach me at
-<a href="www.linkedin.com/in/marcus-bräutigam-2b9756238">
+<a href="https://de.linkedin.com/in/marcus-br%C3%A4utigam-2b9756238/">
   <img align="left" alt="Marcus LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
