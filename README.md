@@ -36,22 +36,52 @@ Here are some ideas to get you started:
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img alt="Javascript" src="https://img.shields.io/badge/Javascript-ff6f00.svg?style=for-the-badge&logo=javascript#&logoColor=white"/></code>
 <code><img alt="Csharp" src="https://img.shields.io/badge/Csharp-f32526.svg?style=for-the-badge&logo=csharp#&logoColor=white"/></code>
-<code><img alt="Java" src="https://img.shields.io/badge/Java-f32526.svg?style=for-the-badge&logo=java#&logoColor=white"/></code>
+<code><img alt="C++" src="https://img.shields.io/badge/C++-00599c.svg?style=for-the-badge&logo=c%2B%2B#&logoColor=white"/></code>
+<code><img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25.svg?style=for-the-badge&logo=gnu-bash#&logoColor=white"/></code>
+<code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown#&logoColor=white"/></code>
+<code><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex#&logoColor=white"/></code>
+
+
+
+#### Databases
+<code><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql#&logoColor=white"/></code>
+<code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-679a1.svg?style=for-the-badge&logo=mysql#&logoColor=white"/></code>
+<code><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57.svg?style=for-the-badge&logo=sqlite#&logoColor=white"/></code>
+
+#### Tools
+<code><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code#&logoColor=white"/></code>
+<code><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=for-the-badge&logo=visual-studio#&logoColor=white"/></code>
+<code><img alt="Git" src="https://img.shields.io/badge/Git-f05032.svg?style=for-the-badge&logo=git#&logoColor=white"/></code>
+<code><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github#&logoColor=white"/></code>
+
+
+#### Cloud
+<code><img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazon-aws#&logoColor=white"/></code>
+
+#### CI/CD
+
+<code><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions#&logoColor=white"/></code>
+
+
 
 
 #### Frameworks
 <code><img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/></code>
+<code><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-6339933.svg?style=for-the-badge&logo=node.js#&logoColor=white"/></code>
+
 
 #### Web Technologies
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
 <code><img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/></code>
 
+
 #### Operating Systems:
 
 <code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-E95435?style=for-the-badge&logo=linux&logoColor=white" /></code>
 <code><img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></code>
+
 
 
 <hr>
