@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <code><img alt="Bash" src="https://img.shields.io/badge/Bash-00599c.svg?style=for-the-badge&logo=gnu-bash#&logoColor=white"/></code>
 <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown#&logoColor=white"/></code>
 <code><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex#&logoColor=white"/></code>
+<code><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-679a1.svg?style=for-the-badge&logo=jupyter#&logoColor=white"/></code>
 
 
 
