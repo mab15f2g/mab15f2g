@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 <code><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57.svg?style=for-the-badge&logo=sqlite#&logoColor=white"/></code>
 
 #### Tools
-<code><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code#&logoColor=white"/></code>
-<code><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=for-the-badge&logo=visual-studio#&logoColor=white"/></code>
-<code><img alt="Git" src="https://img.shields.io/badge/Git-f05032.svg?style=for-the-badge&logo=git#&logoColor=white"/></code>
-<code><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github#&logoColor=white"/></code>
+<code><img alt="Git" src="https://img.shields.io/badge/Git-2496ed.svg?style=for-the-badge&logo=git#&logoColor=white"/></code>
+<code><img alt="Docker" src="https://img.shields.io/badge/Docker-dd0031.svg?style=for-the-badge&logo=docker#&logoColor=white"/></code>
+<code><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-9088FF.svg?style=for-the-badge&logo=jupyter#&logoColor=white"/></code>
+
+
 
 
 #### Cloud
@@ -61,8 +62,6 @@ Here are some ideas to get you started:
 #### CI/CD
 
 <code><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-9088FF.svg?style=for-the-badge&logo=github-actions#&logoColor=white"/></code>
-
-
 
 
 #### Frameworks
@@ -76,11 +75,18 @@ Here are some ideas to get you started:
 <code><img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/></code>
 
 
+#### IDEs
+<code><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code#&logoColor=white"/></code>
+<code><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=for-the-badge&logo=visual-studio#&logoColor=white"/></code>
+
+
 #### Operating Systems:
 
 <code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-E95435?style=for-the-badge&logo=linux&logoColor=white" /></code>
 <code><img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></code>
+
+
 
 
 
