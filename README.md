@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 #### CI/CD
 
-<code><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions#&logoColor=white"/></code>
+<code><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-9088FF.svg?style=for-the-badge&logo=github-actions#&logoColor=white"/></code>
 
 
 
