@@ -34,14 +34,25 @@ Here are some ideas to get you started:
 
 #### Programming Languages:
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/></code>
+
 <code><img alt="Javascript" src="https://img.shields.io/badge/Javascript-ff6f00.svg?style=for-the-badge&logo=javascript#&logoColor=white"/></code>
-<code><img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/></code>
+
 <code><img alt="Csharp" src="https://img.shields.io/badge/Csharp-f32526.svg?style=for-the-badge&logo=csharp#&logoColor=white"/></code>
 
+
+#### Frameworks
+
+<code><img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/></code>
+
+#### Web Technologies
+<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
+
+<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
+
+<code><img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/></code>
 
 #### Operating Systems:
 
 <code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
-<code><img alt="Ubuntu" src="https://img.shields.io/badge/Linux-E95435?style=for-the-badge&logo=linux&logoColor=white" /></code>
+<code><img alt="Linux" src="https://img.shields.io/badge/Linux-E95435?style=for-the-badge&logo=linux&logoColor=white" /></code>
 <code><img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></code>
