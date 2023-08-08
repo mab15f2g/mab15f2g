@@ -1,6 +1,9 @@
 ### Hi there 👋 and Welcome to my GitHub Profile!
 
 <!--
+
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+
 **mab15f2g/mab15f2g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,5 +36,8 @@ Here are some ideas to get you started:
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
 
 <code><img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/></code>
+
+<code><img alt="Javascript" src="https://img.shields.io/badge/Javascript-5c2992.svg?style=for-the-badge&logo=javascript#&logoColor=white"/></code>
+
 
 
