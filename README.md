@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img alt="Javascript" src="https://img.shields.io/badge/Javascript-ff6f00.svg?style=for-the-badge&logo=javascript#&logoColor=white"/></code>
 <code><img alt="Csharp" src="https://img.shields.io/badge/Csharp-f32526.svg?style=for-the-badge&logo=csharp#&logoColor=white"/></code>
-<code><img alt="C++" src="https://img.shields.io/badge/C++-00599c.svg?style=for-the-badge&logo=c%2B%2B#&logoColor=white"/></code>
-<code><img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25.svg?style=for-the-badge&logo=gnu-bash#&logoColor=white"/></code>
+<code><img alt="C++" src="https://img.shields.io/badge/C++-4eaa25.svg?style=for-the-badge&logo=c%2B%2B#&logoColor=white"/></code>
+<code><img alt="Bash" src="https://img.shields.io/badge/Bash-00599c.svg?style=for-the-badge&logo=gnu-bash#&logoColor=white"/></code>
 <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown#&logoColor=white"/></code>
 <code><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex#&logoColor=white"/></code>
 
