@@ -33,21 +33,13 @@ Here are some ideas to get you started:
 ###  :desktop_computer: Skilled in 
 
 #### Languages:
-<code>
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</code>
+<code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
 
-<code>
-    <img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/>
-</code>
+<code><img alt="DotNet" src="https://img.shields.io/badge/DotNet-5c2992.svg?style=for-the-badge&logo=dotnet#&logoColor=white"/></code>
 
-<code>
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ff6f00.svg?style=for-the-badge&logo=javascript#&logoColor=white"/>
-</code>
+<code><img alt="Javascript" src="https://img.shields.io/badge/Javascript-ff6f00.svg?style=for-the-badge&logo=javascript#&logoColor=white"/></code>
 
-<code>
-    <img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/>
-</code>
+<code><img alt="Blazor" src="https://img.shields.io/badge/Blazor-00599c.svg?style=for-the-badge&logo=blazor#&logoColor=white"/></code>
 
 
 
